@@ -1,0 +1,6 @@
+Hello world! Hello, KAZI.
+My full name is Kazi Maharaf Islam, But people call me Nabil, 
+cause that's my nick name that for some technical reason didn't rech my certificates
+
+javac WordCounter.java
+java WordCounter sample.txt 
